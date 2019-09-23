@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: MeepMerp
+## Version: v1.03
+## Author: Pretzellent @ Remulos (Classic)
+## DefaultState: enabled
+## Notes: A simple add-on to make a noise when you're out of range for a cast. /meepmerp
+
+MeepMerp.lua
