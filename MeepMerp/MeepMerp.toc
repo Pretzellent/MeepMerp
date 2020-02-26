@@ -1,4 +1,4 @@
-## Interface: 11302
+## Interface: 11303
 ## Title: MeepMerp
 ## Version: v1.03
 ## Author: Pretzellent @ Remulos (Classic)
